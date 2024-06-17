@@ -1,3 +1,5 @@
 # ma4615-final-project-quarto
 
-Here is the link to our YouTube video: https://www.youtube.com/watch?v=sOvVbXoMkbI&t=112s&ab_channel=SitongLiu
+Here is the link to the project: https://sussmanbu.github.io/final-project-team4/
+
+In this project, we use R to evaluate UNESCO world education data.
